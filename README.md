@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="0; url=https://내꺼.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>내 개인 웹 페이지</title>
     <link rel="stylesheet" href="styles.css">
