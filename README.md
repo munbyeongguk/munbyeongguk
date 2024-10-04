@@ -25,6 +25,7 @@
         <h2>프로젝트</h2>
         <ul>
             <li><a href="https://playentry.org/project/65c0817860deff001b85ee2d">엔트리 대칭 작품</a></li>
+            <li><a href="https://playentry.org/profile/65794b3105865c009f8ce1d3?sort=created&term=all&isOpen=all">더 보고 싶으면 여기</a></li>
         </ul>
     </section>
     <section id="contact">
